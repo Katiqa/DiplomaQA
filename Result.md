@@ -6,7 +6,7 @@
 ### Отчёт автоматизированного тестирования
 Написано автотестов: 63
 Успешно пройденных: 100%
-![image](https://www.awesomescreenshot.com/image/52243036?key=e4b0dd813482aad9849543e9a17c1c30)
+[image](https://www.awesomescreenshot.com/image/52243036?key=e4b0dd813482aad9849543e9a17c1c30)
 
 ### Отчет мануального тестирования
 Всего ручных тест-кейсов: 78
